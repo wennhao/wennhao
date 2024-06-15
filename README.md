@@ -19,5 +19,5 @@ I work on random projects in my free time, mostly Java!
 <p align="center">
     <img src="https://skillicons.dev/icons?i=lua,python" />
     <img src="https://skillicons.dev/icons?i=linux,haskell,nextjs,cpp&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=raspberrypi,visualstudio,latex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
  </p>   
