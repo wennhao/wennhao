@@ -1,6 +1,6 @@
-<p align="center">
-## Hi there 👋
-</p>
+<h1 align="center">
+Hi there 👋
+</h1>
 I'm Wen Hao (@wennhao) and I'm a work in progress developer, designer and high school student.
 I'm interested in development and new languages and frameworks like React.
 I work on random projects in my free time, mostly Java!
