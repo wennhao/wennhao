@@ -5,7 +5,7 @@ I'm interested in development and new languages and frameworks like React.
 I work on random projects in my free time, mostly Java!
 
 ## Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=js,java&theme=light,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css)](https://skillicons.dev)
 
 
 ## Currently Learning
