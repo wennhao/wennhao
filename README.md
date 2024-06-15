@@ -10,10 +10,10 @@ I work on random projects in my free time, mostly Java!
 ## Skills and Experience
  <p align="center">
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
-    <img src="https://skillicons.dev/icons?i=js,java,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=html,css,arduino,mysql,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,arduino,mysql&theme=dark" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,latex&theme=dark" />
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,arduino,mysql)](https://skillicons.dev)
+
  </p>    
 
 ## Currently Learning
