@@ -7,15 +7,17 @@ I'm Wen Hao (@wennhao) and currently a to-be developer, designer and high school
 I'm interested in learning new languages and frameworks like Nextjs.
 I work on random projects in my free time, mostly Java!
 
-## Skills and Experience
+<h2> Skills and Experience </h2>
  <p align="center">
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
-    <img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,java&theme=light" />
     <img src="https://skillicons.dev/icons?i=html,css,arduino,mysql&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,latex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,latex,ps,ai,xd" />
  </p>    
 
-## Currently Learning
+<h2> Currently Learning </h2>
 <p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=lua,python,linux,haskell,nextjs,cpp)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=lua,python" />
+    <img src="https://skillicons.dev/icons?i=linux,haskell,nextjs,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,visualstudio,latex&theme=dark" />
  </p>   
