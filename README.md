@@ -3,10 +3,10 @@ Hi there 👋
 </h1>
 <br />
 
-I'm Wen Hao (@wennhao) and currently a to-be developer, designer and high school student.
+<div align="center"> I'm Wen Hao (@wennhao) and currently a to-be developer, designer and high school student.
 I'm interested in learning new languages and frameworks like Nextjs.
 I work on random projects in my free time, mostly Java!
-
+</div>
 <h2> Skills and Experience </h2>
  <p align="center">
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
