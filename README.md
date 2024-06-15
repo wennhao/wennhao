@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**wennhao/wennhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wen Hao (@wennhao) and I'm a work in progress developer, designer and high school student.
+I'm interested in development and new languages and frameworks like React.
+I work on random projects in my free time, mostly Java!
 
-Here are some ideas to get you started:
+## Skills and Experience
+* Java
+* NextJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,wasm)](https://skillicons.dev)
+
+
+## Currently Learning
+* Javascript
+* 
