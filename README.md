@@ -3,7 +3,7 @@ Hi there 👋
 </h1>
 <br />
 
-<div align="left"> I'm Wen Hao (@wennhao) and currently a to-be developer, designer and high school student.
+<div align="left"> I'm Wen Hao (@wennhao) and currently a high school student, designer and developer.
 I'm interested in learning new languages and frameworks like Nextjs.
 I work on random projects in my free time, mostly Java!
 </div>
