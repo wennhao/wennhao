@@ -9,7 +9,6 @@ I'm interested in learning new languages and frameworks like Nextjs.
 I work on random projects in my free time, mostly Java!
 </div>
 
-<br />
 [![](https://visitcount.itsvg.in/api?id=wennhao&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <h2> Skills and Experience </h2>
