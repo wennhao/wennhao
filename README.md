@@ -2,13 +2,15 @@
 Hi there 👋
 </h1>
 
-[![](https://visitcount.itsvg.in/api?id=wennhao&icon=0&color=6)](https://visitcount.itsvg.in)
 <br />
 
 <div align="left"> I'm Wen Hao (@wennhao) and currently a high school student, designer and developer.
 I'm interested in learning new languages and frameworks like Nextjs.
 I work on random projects in my free time, mostly Java!
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=wennhao&icon=0&color=6)](https://visitcount.itsvg.in)
+
 <h2> Skills and Experience </h2>
  <p align="center">
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
