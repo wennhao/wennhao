@@ -27,3 +27,9 @@ I work on random projects in my free time, mostly Java!
     <img src="https://skillicons.dev/icons?i=linux,haskell,nextjs,cpp" />
     <img src="https://skillicons.dev/icons?i=raspberrypi" />
  </p>   
+
+
+
+<h2>Github Stats</h2>
+
+<img src="https://raw.githubusercontent.com/wennhao/wennhao/output/snake.svg" alt="Snake animation" />
