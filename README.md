@@ -1,5 +1,6 @@
 <h1 align="center">
 Hi there 👋
+ [![](https://visitcount.itsvg.in/api?id=wennhao&icon=0&color=6)](https://visitcount.itsvg.in)
 </h1>
 <br />
 
