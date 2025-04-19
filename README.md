@@ -23,7 +23,7 @@ I work on random projects in my free time, mostly Java!
 
 <h2> Currently Learning </h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=lua,godot" />
+    <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=linux,nextjs" />
     <img src="https://skillicons.dev/icons?i=cpp" />
  </p>   
