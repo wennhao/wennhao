@@ -18,12 +18,12 @@ I work on random projects in my free time, mostly Java!
     <img src="https://skillicons.dev/icons?i=html,css,arduino,mysql&theme=dark" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,latex,ps,ai,xd" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,latex,python,haskell,cpp" />
  </p>    
 
 <h2> Currently Learning </h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=lua,python" />
-    <img src="https://skillicons.dev/icons?i=linux,haskell,nextjs,cpp" />
+    <img src="https://skillicons.dev/icons?i=lua,godot" />
+    <img src="https://skillicons.dev/icons?i=linux,nextjs" />
     <img src="https://skillicons.dev/icons?i=raspberrypi" />
  </p>   
